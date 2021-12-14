@@ -1,8 +1,8 @@
 --- === Invisikill ===
 ---
---- ${description}
+--- detects and removing invisible spaces and other gremlins from strings when you copy them
 ---
---- Download: [${download_url}](${download_url})
+--- Download: [https://github.com/alazoral/invisikill](https://github.com/alazoral/invisikill)
 
 local obj={}
 obj.__index = obj
