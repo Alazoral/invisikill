@@ -5,16 +5,15 @@ A [Hammerspoon][hammerspoon] Spoon for macOS for detecting and removing invisibl
 ## Installation
 
 1. Install [Hammerspoon][hammerspoon]
-2. [Download this repo as a zip](https://github.com/Alazoral/invisikill/archive/refs/heads/main.zip)
-3. Rename the folder to Invisikill.spoon
-4. Move folder to your Hammerspoon spoon directory, usually `~/.hammerspoon/Spoons`
-5. Open your Hammerspoon Config using the menu item
-6. Add the following to your config:
+2. [Download it as a zip](https://github.com/Alazoral/invisikill/archive/refs/heads/main.zip)
+3. Double click Invisikill.spoon to install it.
+4. Open your Hammerspoon Config using the menu item
+5. Add the following to your config:
    ```lua
    hs.spoons.use("Invisikill")
    spoon.Invisikill:start() 
    ```
-7. Save and reload your config
+6. Save and reload your config
 
 ## Usage
 
